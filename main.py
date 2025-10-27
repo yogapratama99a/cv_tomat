@@ -3,19 +3,19 @@ import time
 
 # URL dari Arduino IDE
 # IP harus sesuai dengan Serial Monitor Arduino IDE
-URL_STREAM = "http://192.168.1.10/stream" 
+URL_STREAM = "http://192.168.10.13:81/stream" 
 
 # --- (Opsional) Import skrip anggota lain (masih kosong/skeleton) ---
 # import scripts.preprocess as pp
 # import scripts.segmentation as seg
-# import scripts.find_objects as det
+# import scripts.find_objects as det    
 # import scripts.extract_features as feat
 
 
 print(f"Mencoba menyambung ke stream: {URL_STREAM}...")
 cap = cv2.VideoCapture(URL_STREAM)
 
-# Cek apakah koneksi berhasil
+# Cek koneksi berhasil
 if not cap.isOpened():
     print("==============================================")
     print("Error: Tidak bisa membuka stream.")
@@ -55,7 +55,7 @@ while True:
     
     # --- Output W1-P2 ---
     # Untuk minggu ini, kita hanya tampilkan frame aslinya
-    cv2.imshow("Live Feed ESP32-CAM (Tugas Anggota 6)", frame)
+    cv2.imshow("Live Feed ESP32-CAM (Yoga Pratama)", frame)
 
     # Cek jika tombol 'q' ditekan untuk keluar
     if cv2.waitKey(1) & 0xFF == ord('q'):
