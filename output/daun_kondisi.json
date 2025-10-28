@@ -1,0 +1,83 @@
+[
+    {
+        "mean_hue": 36.94117647058823,
+        "mean_saturation": 148.41176470588235,
+        "mean_value": 58.88235294117647,
+        "mean_blue": 26.823529411764707,
+        "mean_green": 58.76470588235294,
+        "mean_red": 51.76470588235294,
+        "condition": "Busuk"
+    },
+    {
+        "mean_hue": 26.0,
+        "mean_saturation": 247.0,
+        "mean_value": 30.0,
+        "mean_blue": 1.0,
+        "mean_green": 26.0,
+        "mean_red": 30.0,
+        "condition": "Busuk"
+    },
+    {
+        "mean_hue": 85.0,
+        "mean_saturation": 93.0,
+        "mean_value": 33.0,
+        "mean_blue": 31.0,
+        "mean_green": 33.0,
+        "mean_red": 21.0,
+        "condition": "Busuk"
+    },
+    {
+        "mean_hue": 63.0,
+        "mean_saturation": 37.0,
+        "mean_value": 69.0,
+        "mean_blue": 60.0,
+        "mean_green": 69.0,
+        "mean_red": 59.0,
+        "condition": "Busuk"
+    },
+    {
+        "mean_hue": 87.0,
+        "mean_saturation": 156.0,
+        "mean_value": 36.0,
+        "mean_blue": 34.0,
+        "mean_green": 36.0,
+        "mean_red": 14.0,
+        "condition": "Busuk"
+    },
+    {
+        "mean_hue": 90.0,
+        "mean_saturation": 118.0,
+        "mean_value": 39.0,
+        "mean_blue": 39.0,
+        "mean_green": 39.0,
+        "mean_red": 21.0,
+        "condition": "Busuk"
+    },
+    {
+        "mean_hue": 70.0,
+        "mean_saturation": 112.0,
+        "mean_value": 33.0,
+        "mean_blue": 23.5,
+        "mean_green": 33.0,
+        "mean_red": 18.5,
+        "condition": "Busuk"
+    },
+    {
+        "mean_hue": 56.0,
+        "mean_saturation": 68.0,
+        "mean_value": 30.0,
+        "mean_blue": 22.0,
+        "mean_green": 30.0,
+        "mean_red": 23.0,
+        "condition": "Busuk"
+    },
+    {
+        "mean_hue": 64.34494113595765,
+        "mean_saturation": 125.71693605664723,
+        "mean_value": 125.37246841572865,
+        "mean_blue": 90.20366743430257,
+        "mean_green": 125.26313410670858,
+        "mean_red": 81.30372554505736,
+        "condition": "Segar"
+    }
+]
